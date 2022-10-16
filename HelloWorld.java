@@ -1,6 +1,9 @@
 import java.util.*;
-public class maxUntis {
+public class HelloWorld {
     public static void main(String[] args){
-         System.out.println("Hello Word");
+
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
     }
 }
